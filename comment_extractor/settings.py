@@ -26,7 +26,7 @@ SECRET_KEY = "8y+=e2g4b*mk_4@cpmmb3fp)lrk@n&qbni8&3w93p$+a#b&sv@"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ("*",)
+ALLOWED_HOSTS = ("localhost", "facebook-comment-parser.herokuapp.com")
 
 
 # Application definition
