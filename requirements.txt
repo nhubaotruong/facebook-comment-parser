@@ -2,3 +2,4 @@ Django==3.1.7
 dateparser
 beautifulsoup4
 deep_translator
+gunicorn
