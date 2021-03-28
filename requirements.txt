@@ -3,5 +3,5 @@ dateparser
 beautifulsoup4
 deep_translator
 gunicorn
-psycopg
+psycopg2
 environ
